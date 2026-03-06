@@ -1,75 +1,78 @@
-# AI-Impact-on-Jobs-Dashboard-2030-Analysis
+**🤖 AI Impact on Jobs Dashboard (2030 Analysis)
 
-**Project Overview**
+📊 Project Overview**
 
 This project analyzes how Artificial Intelligence may impact different job roles by the year 2030.
+
 The dashboard explores automation risk, salary trends, AI exposure, and technology growth factors across multiple professions.
 
-Using Power BI, the dataset is transformed into an interactive dashboard that helps identify which jobs are most vulnerable to automation and how factors like education level and experience influence salary trends.
+Using Power BI, the dataset is transformed into an interactive dashboard that helps identify:
+
+Jobs most vulnerable to automation
+
+The relationship between AI exposure and job risk
+
+How education level and experience influence salary trends
 
 The goal of this project is to demonstrate data analysis, visualization, and storytelling using Power BI.
 
-
-**Dashboard Preview**
+**🖥️ Dashboard Preview**
 
 https://github.com/khushbirkaur/AI-Impact-on-Jobs-Dashboard-2030-Analysis-/blob/main/AI_Impact_on_Jobs_2030%20dashboard.jpeg
 
+🔎 **Key Insights**
 
-**Key Insights**
+📉 Job roles such as Retail Worker, Security Guard, and Construction Worker show higher automation probability by 2030.
 
-Certain job roles such as Retail Worker, Security Guard, and Construction Worker show higher automation probability by 2030.
+🤖 Jobs with higher AI exposure tend to have greater automation risk.
 
-Jobs with higher AI exposure tend to have greater automation risk.
+🎓 Education level and experience significantly influence salary trends.
 
-Education level and experience influence salary trends across professions.
+🚀 Some job roles show stronger technology growth factors, indicating increasing demand for digital skills.
 
-Some job roles show stronger technology growth factors, indicating increased demand for digital skills in the future.
+📌 **Dashboard Features
+📊 KPI Cards**
 
+The dashboard highlights important metrics such as:
 
-**Features of the Dashboard**
+💰 Average Salary
 
-KPI cards showing:
+⚙️ Average Automation Probability
 
-Average Salary
+👨‍💼 Total Job Roles
 
-Average Automation Probability
+🧠 Average AI Exposure
 
-Total Job Roles
+🏆 Job Role with Highest Average Salary
 
-Average AI Exposure
+📈 Visualizations Included
 
-Job Role with Highest Average Salary
+📊 Automation Risk by Job Role (2030)
 
-Visualizations included:
+💰 Average Salary by Job Title
 
-Automation Risk by Job Role
+🚀 Technology Growth Factor by Job Role
 
-Salary by Job Title
+🥧 Risk Category Distribution
 
-Technology Growth Factor by Job
+📉 Salary vs Experience by Education Level
 
-Risk Category Distribution
+🎛️ Interactive Features
 
-Salary vs Experience by Education Level (Scatter Plot)
+🔄 Clear All Slicers button implemented using Power BI Bookmarks
 
+Interactive filtering for better data exploration
 
-**Interactive elements:**
-
-Clear All Slicers button using Power BI bookmarks
-
-
-**Tech Stack**
-
-Power BI – Data visualization and dashboard development
-
-DAX (Data Analysis Expressions) – Calculations and KPI measures
-
-Dataset Source: Kaggle
+| Tool              | Purpose               |
+| ----------------- | --------------------- |
+| 📊 Power BI       | Dashboard development |
+| 📐 DAX            | Calculations and KPIs |
+| 📂 Kaggle Dataset | Data source           |
 
 
-**Dataset**
+The dataset includes information about different job roles and their future exposure to AI.
 
-The dataset contains information about various job roles and includes features such as:
+Main columns include:
 
 Job Title
 
@@ -87,26 +90,21 @@ Risk Category
 
 Technology Growth Factor
 
-These variables help analyze the future impact of AI on employment trends.
+These features help analyze how AI might reshape the job market in the coming years.
 
+🎯 **Learning Outcomes**
 
-**Learning Outcomes**
+Through this project I developed skills in:
 
-Through this project I practiced:
+📊 Data visualization with Power BI
 
-Data cleaning and transformation
+🧮 Data analysis and KPI creation
 
-Designing interactive dashboards
+🧠 Analytical thinking and insight generation
 
-Creating meaningful KPIs
+📈 Dashboard design and storytelling
 
-Applying analytical thinking to identify insights
-
-Using Power BI for data storytelling
-
-
-**Author**
+👩‍💻 Author
 
 **Khushbir Kaur Bamrah**
-
-Artificial Intelligence & Data Science Engineering Student
+🎓 Artificial Intelligence & Data Science Engineering Student
