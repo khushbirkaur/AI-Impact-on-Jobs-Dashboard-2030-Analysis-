@@ -1,11 +1,9 @@
-**🤖 AI Impact on Jobs Dashboard (2030 Analysis)
+🤖 **AI Impact on Jobs Dashboard (2030 Analysis)**
 
-📊 Project Overview**
+📊 **Project Overview**
 
 This project analyzes how Artificial Intelligence may impact different job roles by the year 2030.
-
 The dashboard explores automation risk, salary trends, AI exposure, and technology growth factors across multiple professions.
-
 Using Power BI, the dataset is transformed into an interactive dashboard that helps identify:
 
 Jobs most vulnerable to automation
@@ -16,9 +14,11 @@ How education level and experience influence salary trends
 
 The goal of this project is to demonstrate data analysis, visualization, and storytelling using Power BI.
 
+
 **🖥️ Dashboard Preview**
 
 https://github.com/khushbirkaur/AI-Impact-on-Jobs-Dashboard-2030-Analysis-/blob/main/AI_Impact_on_Jobs_2030%20dashboard.jpeg
+
 
 🔎 **Key Insights**
 
@@ -30,8 +30,9 @@ https://github.com/khushbirkaur/AI-Impact-on-Jobs-Dashboard-2030-Analysis-/blob/
 
 🚀 Some job roles show stronger technology growth factors, indicating increasing demand for digital skills.
 
-📌 **Dashboard Features
-📊 KPI Cards**
+
+📌 **Dashboard Features**
+📊 KPI Cards
 
 The dashboard highlights important metrics such as:
 
@@ -70,6 +71,7 @@ Interactive filtering for better data exploration
 | 📂 Kaggle Dataset | Data source           |
 
 
+
 The dataset includes information about different job roles and their future exposure to AI.
 
 Main columns include:
@@ -92,6 +94,7 @@ Technology Growth Factor
 
 These features help analyze how AI might reshape the job market in the coming years.
 
+
 🎯 **Learning Outcomes**
 
 Through this project I developed skills in:
@@ -104,7 +107,9 @@ Through this project I developed skills in:
 
 📈 Dashboard design and storytelling
 
+
 👩‍💻 Author
 
 **Khushbir Kaur Bamrah**
+
 🎓 Artificial Intelligence & Data Science Engineering Student
