@@ -17,7 +17,7 @@ The goal of this project is to demonstrate data analysis, visualization, and sto
 
 **🖥️ Dashboard Preview**
 
-https://github.com/khushbirkaur/AI-Impact-on-Jobs-Dashboard-2030-Analysis-/blob/main/AI_Impact_on_Jobs_2030%20dashboard.jpeg
+![ss](https://github.com/khushbirkaur/AI-Impact-on-Jobs-Dashboard-2030-Analysis-/blob/main/AI_Impact_on_Jobs_2030%20dashboard.jpeg)
 
 
 🔎 **Key Insights**
